@@ -1,6 +1,6 @@
 <?php
 
-namespace Asantibanez\LivewireSelect;
+namespace woasiMspAddon\LivewireSelect;
 
 use Illuminate\Support\Facades\Blade;
 use Illuminate\Support\ServiceProvider;

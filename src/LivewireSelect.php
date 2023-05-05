@@ -1,6 +1,6 @@
 <?php
 
-namespace Asantibanez\LivewireSelect;
+namespace woasiMSPAddon\LivewireSelect;
 
 use Illuminate\Support\Collection;
 use Livewire\Component;

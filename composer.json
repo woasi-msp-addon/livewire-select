@@ -1,5 +1,5 @@
 {
-    "name": "woasiMSPAddon/livewire-select",
+    "name": "woasi-msp-addon/livewire-select",
     "description": "Livewire dropdown select component",
     "keywords": [
         "asantibanez",
@@ -45,10 +45,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "woasiMSPAddon\\LivewireSelect\\LivewireSelectServiceProvider"
+                "woasi-msp-addon\\LivewireSelect\\LivewireSelectServiceProvider"
             ],
             "aliases": {
-                "LivewireSelect": "woasiMSPAddon\\LivewireSelect\\LivewireSelectFacade"
+                "LivewireSelect": "woasi-msp-addon\\LivewireSelect\\LivewireSelectFacade"
             }
         }
     }

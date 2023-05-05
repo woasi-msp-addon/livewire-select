@@ -45,10 +45,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "woasi-msp-addon\\LivewireSelect\\LivewireSelectServiceProvider"
+                "woasiMSPAddon\\LivewireSelect\\LivewireSelectServiceProvider"
             ],
             "aliases": {
-                "LivewireSelect": "woasi-msp-addon\\LivewireSelect\\LivewireSelectFacade"
+                "LivewireSelect": "woasiMSPAddon\\LivewireSelect\\LivewireSelectFacade"
             }
         }
     }
